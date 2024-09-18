@@ -1,0 +1,3 @@
+/Users/elayohannan/Desktop/MTRN Projects/tut02/cmake-build-debug/CMakeFiles/tut02.dir
+/Users/elayohannan/Desktop/MTRN Projects/tut02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elayohannan/Desktop/MTRN Projects/tut02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
